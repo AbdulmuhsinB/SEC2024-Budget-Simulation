@@ -313,8 +313,8 @@ const textNodes = [
       return `The game has ended. Here's your financial summary:\n` + 
              `Total Money Remaining: $${state.money - state.debt}\n` + 
              `Happiness: ${state.happiness}\n` +
-             `What could you have done better?\n` + 
-             getFinancialSummary(state);
+             `What could you have done better?\n` +
+             JSON.stringify(getFinancialSummary(state));
     },
     options: [
       {
@@ -324,6 +324,18 @@ const textNodes = [
     ],
   }
 ];
+
+function insights(state){
+  if (remainingMoney < 0) {
+    insights += "You ran out of money! It looks like your expenses were too high compared to your income. Consider budgeting more carefully.\n";
+  } else if (state.happiness < 30) {
+    insights += "Your happiness is quite low. Perhaps you overindulged in spending on non-essential items or neglected your mental health.\n";
+  } else {
+    insights += "You maintained a balance between income, spending, and happiness. Well done managing your finances!\n";
+  }
+
+  return `Insights:\n${insights}`;
+}
 
 function getFinancialSummary(state) {
   const financialSummary = {
