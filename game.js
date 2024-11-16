@@ -170,7 +170,7 @@ const textNodes = [
     text: 'You start your first full-time job. You receive your first paycheck. How will you allocate it?',
     options: [
       {
-        text: 'Save 20%, pay bills, and budget the rest',
+        text: 'Pay bills, and budget the rest',
         setState: { debt: -200, happiness: 5 },
         nextText: 2,
       },
@@ -178,12 +178,7 @@ const textNodes = [
         text: 'Spend most of it on a new gadget you wanted',
         setState: { debt: 500, happiness: 10 },
         nextText: 2,
-      },
-      {
-        text: 'Pay off debts aggressively, cutting leisure expenses',
-        setState: { debt: -300, happiness: -10 },
-        nextText: 2,
-      },
+      }
     ],
   },
   {
