@@ -1,0 +1,98 @@
+[
+  {
+    "Year": 2011,
+    "Average Annual Income (CAD)": "76,679.88",
+    "Inflation Rate (%)": 2.9,
+    "Fixed Monthly Expenses (CAD)": 721,
+    "Non-Essential Monthly Expenses (CAD)": 500,
+    "Monthly Average Rent (CAD)": 1010
+  },
+  {
+    "Year": 2012,
+    "Average Annual Income (CAD)": "76,165.93",
+    "Inflation Rate (%)": 1.5,
+    "Fixed Monthly Expenses (CAD)": 748,
+    "Non-Essential Monthly Expenses (CAD)": 520,
+    "Monthly Average Rent (CAD)": 1030
+  },
+  {
+    "Year": 2013,
+    "Average Annual Income (CAD)": "76,000.88",
+    "Inflation Rate (%)": 0.9,
+    "Fixed Monthly Expenses (CAD)": 771,
+    "Non-Essential Monthly Expenses (CAD)": 540,
+    "Monthly Average Rent (CAD)": 1035
+  },
+  {
+    "Year": 2014,
+    "Average Annual Income (CAD)": "75,717.59",
+    "Inflation Rate (%)": 2,
+    "Fixed Monthly Expenses (CAD)": 793,
+    "Non-Essential Monthly Expenses (CAD)": 560,
+    "Monthly Average Rent (CAD)": 1071
+  },
+  {
+    "Year": 2015,
+    "Average Annual Income (CAD)": "78,247.69",
+    "Inflation Rate (%)": 1.1,
+    "Fixed Monthly Expenses (CAD)": 820,
+    "Non-Essential Monthly Expenses (CAD)": 580,
+    "Monthly Average Rent (CAD)": 1110
+  },
+  {
+    "Year": 2016,
+    "Average Annual Income (CAD)": "87,842.58",
+    "Inflation Rate (%)": 1.4,
+    "Fixed Monthly Expenses (CAD)": 850,
+    "Non-Essential Monthly Expenses (CAD)": 600,
+    "Monthly Average Rent (CAD)": 1137
+  },
+  {
+    "Year": 2017,
+    "Average Annual Income (CAD)": "86,485.52",
+    "Inflation Rate (%)": 1.6,
+    "Fixed Monthly Expenses (CAD)": 880,
+    "Non-Essential Monthly Expenses (CAD)": 620,
+    "Monthly Average Rent (CAD)": 1202
+  },
+  {
+    "Year": 2018,
+    "Average Annual Income (CAD)": "88,501.24",
+    "Inflation Rate (%)": 2.3,
+    "Fixed Monthly Expenses (CAD)": 918,
+    "Non-Essential Monthly Expenses (CAD)": 640,
+    "Monthly Average Rent (CAD)": 1296
+  },
+  {
+    "Year": 2019,
+    "Average Annual Income (CAD)": "87,979.71",
+    "Inflation Rate (%)": 1.9,
+    "Fixed Monthly Expenses (CAD)": 956,
+    "Non-Essential Monthly Expenses (CAD)": 660,
+    "Monthly Average Rent (CAD)": 1362
+  },
+  {
+    "Year": 2020,
+    "Average Annual Income (CAD)": "105,991.04",
+    "Inflation Rate (%)": 0.7,
+    "Fixed Monthly Expenses (CAD)": 990,
+    "Non-Essential Monthly Expenses (CAD)": 680,
+    "Monthly Average Rent (CAD)": 1374
+  },
+  {
+    "Year": 2021,
+    "Average Annual Income (CAD)": "104,214.60",
+    "Inflation Rate (%)": 3.4,
+    "Fixed Monthly Expenses (CAD)": 1038,
+    "Non-Essential Monthly Expenses (CAD)": 700,
+    "Monthly Average Rent (CAD)": 1440
+  },
+  {
+    "Year": 2022,
+    "Average Annual Income (CAD)": "105,621.18",
+    "Inflation Rate (%)": 6.8,
+    "Fixed Monthly Expenses (CAD)": 1106,
+    "Non-Essential Monthly Expenses (CAD)": 720,
+    "Monthly Average Rent (CAD)": 1708
+  }
+]

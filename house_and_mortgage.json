@@ -1,0 +1,74 @@
+[
+  {
+    "Year": 2011,
+    "House Worth (CAD)": "500,000.00",
+    "Fixed Rate (%)": 5.39,
+    "Fixed Monthly Payment (CAD)": "2,126.38"
+  },
+  {
+    "Year": 2012,
+    "House Worth (CAD)": "540,000.00",
+    "Fixed Rate (%)": 5.24,
+    "Fixed Monthly Payment (CAD)": "2,095.30"
+  },
+  {
+    "Year": 2013,
+    "House Worth (CAD)": "550,000.00",
+    "Fixed Rate (%)": 5.24,
+    "Fixed Monthly Payment (CAD)": "2,095.30"
+  },
+  {
+    "Year": 2014,
+    "House Worth (CAD)": "575,000.00",
+    "Fixed Rate (%)": 4.79,
+    "Fixed Monthly Payment (CAD)": "2,003.47"
+  },
+  {
+    "Year": 2015,
+    "House Worth (CAD)": "600,000.00",
+    "Fixed Rate (%)": 4.64,
+    "Fixed Monthly Payment (CAD)": "1,973.33"
+  },
+  {
+    "Year": 2016,
+    "House Worth (CAD)": "700,000.00",
+    "Fixed Rate (%)": 4.64,
+    "Fixed Monthly Payment (CAD)": "1,973.33"
+  },
+  {
+    "Year": 2017,
+    "House Worth (CAD)": "800,000.00",
+    "Fixed Rate (%)": 4.64,
+    "Fixed Monthly Payment (CAD)": "1,973.33"
+  },
+  {
+    "Year": 2018,
+    "House Worth (CAD)": "750,000.00",
+    "Fixed Rate (%)": 5.34,
+    "Fixed Monthly Payment (CAD)": "2,115.99"
+  },
+  {
+    "Year": 2019,
+    "House Worth (CAD)": "775,000.00",
+    "Fixed Rate (%)": 5.34,
+    "Fixed Monthly Payment (CAD)": "2,115.99"
+  },
+  {
+    "Year": 2020,
+    "House Worth (CAD)": "825,000.00",
+    "Fixed Rate (%)": 4.94,
+    "Fixed Monthly Payment (CAD)": "2,033.85"
+  },
+  {
+    "Year": 2021,
+    "House Worth (CAD)": "900,000.00",
+    "Fixed Rate (%)": 4.79,
+    "Fixed Monthly Payment (CAD)": "2,003.47"
+  },
+  {
+    "Year": 2022,
+    "House Worth (CAD)": "975,000.00",
+    "Fixed Rate (%)": 6.04,
+    "Fixed Monthly Payment (CAD)": "2,263.62"
+  }
+]
